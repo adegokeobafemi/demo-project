@@ -13,7 +13,7 @@ pipeline {
             }
             steps {
                 echo 'Cloning...'
-                git 'https://github.com/RayItern/masterproject.git'
+                git 'https://github.com/adegokeobafemi/demo-project.git'
             }
         }
         
